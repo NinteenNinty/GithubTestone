@@ -142,3 +142,9 @@ Next steps
 Take a look at your GitHub profile and you'll see your work reflected on your contribution graph.
 If you want to practice the skills you've learned in this tutorial again, try the GitHub Skills "Introduction to GitHub" course.
 In the next tutorial, "Setting up your profile," you'll learn how to personalize your profile and you'll also learn some basic Markdown syntax for writing on GitHub.
+
+
+
+
+
+This is the first branch wise commit that I am doing InShaAllah
