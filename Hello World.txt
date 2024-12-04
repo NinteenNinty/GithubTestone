@@ -1,6 +1,8 @@
 Hello World
 Follow this Hello World exercise to learn GitHub's pull request workflow.
 
+This is a confusion case 2
+
 In this article
 Introduction
 Step 1: Create a repository
